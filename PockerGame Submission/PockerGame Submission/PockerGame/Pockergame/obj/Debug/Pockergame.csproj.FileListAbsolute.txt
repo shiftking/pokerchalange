@@ -1,6 +1,0 @@
-c:\users\minner 2\documents\visual studio 2015\Projects\Pockergame\Pockergame\bin\Debug\Pockergame.exe.config
-c:\users\minner 2\documents\visual studio 2015\Projects\Pockergame\Pockergame\obj\Debug\Pockergame.csprojResolveAssemblyReference.cache
-c:\users\minner 2\documents\visual studio 2015\Projects\Pockergame\Pockergame\bin\Debug\Pockergame.exe
-c:\users\minner 2\documents\visual studio 2015\Projects\Pockergame\Pockergame\bin\Debug\Pockergame.pdb
-c:\users\minner 2\documents\visual studio 2015\Projects\Pockergame\Pockergame\obj\Debug\Pockergame.exe
-c:\users\minner 2\documents\visual studio 2015\Projects\Pockergame\Pockergame\obj\Debug\Pockergame.pdb
